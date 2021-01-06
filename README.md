@@ -1,1 +1,2 @@
 # SQL_study
+基于PHPStudy以及Navicat对SQL语法进行的简单练习
